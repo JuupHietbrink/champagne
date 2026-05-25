@@ -2,6 +2,8 @@
 
 Reisplanning voor Valerie &amp; Juup — Champagne, 26 t/m 30 juni 2026.
 
+🌐 **Live site:** [juuphietbrink.github.io/champagne](https://juuphietbrink.github.io/champagne/)
+
 Statische website gehost via **GitHub Pages**.
 
 ## Lokaal bekijken
@@ -13,13 +15,12 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-## GitHub Pages activeren
+## GitHub Pages
 
-1. Ga in de repo naar **Settings → Pages**.
-2. Onder **Source** kies: `Deploy from a branch`.
-3. Branch: `main` · folder: `/ (root)`.
-4. Save. Na ~1 minuut staat de site op:
-   `https://juuphietbrink.github.io/champagne/`
+De site is live op:
+👉 **<https://juuphietbrink.github.io/champagne/>**
+
+Elke push naar `main` wordt automatisch gepubliceerd (binnen ~1 minuut).
 
 ## Bestanden
 
